@@ -1,0 +1,22 @@
+name: tsub
+version: 0.1.0
+author: Rob Bolton <rob.a.bolton@gmail.com>
+about: A text substitution program
+args:
+  - config:
+      short: c
+      long: config
+      takes_value: true
+      required: true
+      help: >
+        Config file specifying substitutions. This should
+        be a single JSON dictionary, where the keys are
+        strings naming the substitutions, and the values are
+        dictionaries of single-character  "original": "replacement"
+        values.
+  - list_substitutions:
+      short: l
+      long: list-substitutions
+      help: >
+        Lists all the available substitutions in the given config
+        file.

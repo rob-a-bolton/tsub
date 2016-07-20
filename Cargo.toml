@@ -1,0 +1,7 @@
+[package]
+name = "tsub"
+version = "0.1.0"
+authors = ["Rob Bolton <rab26@aber.ac.uk>"]
+
+[dependencies]
+clap = { version = "2", features = ["yaml", "color", "suggestions"] }
