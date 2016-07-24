@@ -20,3 +20,9 @@ args:
       help: >
         Lists all the available substitutions in the given config
         file.
+  - substitution:
+      short: s
+      long: substitution
+      takes_value: true
+      help: >
+        Selects the substitution to apply to standard input.
