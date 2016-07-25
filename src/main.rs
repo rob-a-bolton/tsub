@@ -1,39 +1,68 @@
 #[macro_use]
 extern crate clap;
-extern crate rustc_serialize;
 
 use std::collections::HashMap;
 use std::fs::File;
-use std::io::{Read, BufReader, BufRead, Write};
+use std::io::{BufReader, BufRead};
 use clap::App;
-use rustc_serialize::json;
 
 /// Represents a collection of char -> char mappings
 type Substitution = HashMap<char, char>;
 
-/// Opens a file and reads all of the substitutions into a
-/// HashMap, indexing them by name.
-fn get_substitutions(path: &str) -> Result<HashMap<String, Substitution>, &str> {
-    let substitutions: HashMap<String, Substitution>;
-    let mut f = match File::open(path) {
-        Ok(file) => file,
-        Err(err) => return Err("Could not open file."),
-    };
-        
-    let mut json_str = String::new();
+/// Takes the substitution definitions and puts them into a Substitution
+/// The line must start with a single character which will be dropped,
+/// followed by pairs of letters
+fn read_substitution_pairs(rest: &str) -> Option<Substitution> {
+    let mut pairs: HashMap<char, char> = HashMap::new();
+    let mut chars = rest.chars();
+
+    chars.next(); // Drop the separator character
     
-    if let Err(err) = f.read_to_string(&mut json_str) {
-        return Err("Error reading file.");
+    while let (Some(old), Some(new)) = (chars.next(), chars.next()) {
+        pairs.insert(old, new);
     }
 
-    match json::decode(&json_str) {
-        Ok(json) => Ok(json),
-        Err(err) => Err("Cold not decode JSON."),
+    if pairs.len() > 0 {
+        Some(pairs)
+    } else {
+        None
     }
 }
 
+/// If a line is a valid susbstitution definition, parse and return
+fn get_substitution(line: &str) -> Option<(String, Substitution)> {
+    if let Some(index) = line.find(":") {
+        let (name, rest) = line.split_at(index);
+        if let Some(subs) = read_substitution_pairs(rest) {
+            Some((name.to_string(), subs))
+        } else {
+            None
+        }
+    } else {
+        None
+    }
+}
+
+/// Opens a file and reads all of the substitutions into a
+/// HashMap, indexing them by name.
+fn get_substitutions(path: &str) -> Result<HashMap<String, Substitution>, &str> {
+    let mut substitutions: HashMap<String, Substitution> = HashMap::new();
+    let file = match File::open(path) {
+        Ok(file) => file,
+        Err(_) => return Err("Could not read file"),
+    };
+
+    for line in BufReader::new(file).lines() {
+        if let Ok(line) = line {
+            if let Some((name, sub)) = get_substitution(&line) {
+                substitutions.insert(name, sub);
+            }
+        }
+    }
+    Ok(substitutions)
+}
+
 fn substitute(substitution: &Substitution) -> Result<usize, std::io::Error>{
-    let mut output = std::io::stdout();
     let input = std::io::stdin();
     for line in input.lock().lines() {
         match line {
@@ -47,7 +76,7 @@ fn substitute(substitution: &Substitution) -> Result<usize, std::io::Error>{
                 let s: String = str_vec.into_iter().collect();
                 println!("{}", s);
             },
-            Err(err) => panic!("ruh roh"),
+            Err(_) => panic!("ruh roh"),
         }
     }
 
@@ -64,7 +93,7 @@ fn main() {
     let config_path = matches.value_of("config").unwrap();
     let substitutions = match get_substitutions(config_path) {
         Ok(subs) => subs,
-        Err(err) => panic!("Cannot continue with no substitutions."),
+        Err(_) => panic!("Cannot continue with no substitutions."),
     };
 
     if matches.is_present("list_substitutions") {
@@ -73,7 +102,9 @@ fn main() {
         }
     } else if let Some(sub_name) = matches.value_of("substitution") {
         if let Some(sub) = substitutions.get(sub_name) {
-            substitute(sub);
+            if let Err(msg) = substitute(sub) {
+                panic!(msg);
+            }
         } else {
             panic!("Invalid substitution.");
         }
