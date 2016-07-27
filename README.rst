@@ -10,7 +10,7 @@ The characters to be swapped out are stored in a config file like so:
 
 Usage: ``tsub -c <config-file> -s <substitution>``
 
-Use tsub ``-c <config-file> -l`` to list the names of the available substitutions in a config file.
+Use ``tsub -c <config-file> -l`` to list the names of the available substitutions in a config file.
 
 A script has been included which will use dmenu (or bemenu, if installed) to allow a substitution to be selected with a menu and text enteted.
 This relies on xsel to acquire the current clipboard text and to repopulate the clipboard with the newly created text.
