@@ -3,7 +3,6 @@ tsub
 tsub reads text line-by-line from stdin and substitutes characters.
 The characters to be swapped out are stored in a config file like so:
 
-::
     My Substitution:AjEfEl
     Rot13:AZBOCQDSEUFWGYHAICJEKGLIMKRTVXZBDFHJLMNOPQRSTUVWXYNPazbocqdseufwgyhaicjekglimkrtvxzbdfhjlmnopqrstuvwxynp
     Lowercase:AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz
