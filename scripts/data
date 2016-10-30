@@ -1,24 +1,24 @@
-Math monospace:A𝙰B𝙱C𝙲D𝙳E𝙴F𝙵G𝙶H𝙷I𝙸J𝙹K𝙺L𝙻M𝙼N𝙽O𝙾P𝙿Q𝚀R𝚁S𝚂T𝚃U𝚄V𝚅W𝚆X𝚇Y𝚈Z𝚉a𝚊b𝚋c𝚌d𝚍e𝚎f𝚏g𝚐h𝚑i𝚒j𝚓k𝚔l𝚕m𝚖n𝚗o𝚘p𝚙q𝚚r𝚛s𝚜t𝚝u𝚞v𝚟w𝚠x𝚡y𝚢x𝚣0𝟶1𝟷2𝟸3𝟹4𝟺5𝟻6𝟼7𝟽8𝟾9𝟿
-Circled (neg):A🅐B🅑C🅒D🅓E🅔F🅕G🅖H🅗I🅘J🅙K🅚L🅛M🅜N🅝O🅞P🅟Q🅠R🅡S🅢T🅣U🅤V🅥W🅦X🅧Y🅨Z🅩a🅐b🅑c🅒d🅓e🅔f🅕g🅖h🅗i🅘j🅙k🅚l🅛m🅜n🅝o🅞p🅟q🅠r🅡s🅢t🅣u🅤v🅥w🅦x🅧y🅨x🅩0⓿112233445566778899
-Math sans italic:A𝘈B𝘉C𝘊D𝘋E𝘌F𝘍G𝘎H𝘏I𝘐J𝘑K𝘒L𝘓M𝘔N𝘕O𝘖P𝘗Q𝘘R𝘙S𝘚T𝘛U𝘜V𝘝W𝘞X𝘟Y𝘠Z𝘡a𝘢b𝘣c𝘤d𝘥e𝘦f𝘧g𝘨h𝘩i𝘪j𝘫k𝘬l𝘭m𝘮n𝘯o𝘰p𝘱q𝘲r𝘳s𝘴t𝘵u𝘶v𝘷w𝘸x𝘹y𝘺x𝘻00112233445566778899
-Superscript pseudoalphabet:AᴬBᴮCᶜDᴰEᴱFᶠGᴳHᴴIᴵJᴶKᴷLᴸMᴹNᴺOᴼPᴾQQRᴿSˢTᵀUᵁVⱽWᵂXˣYʸZᶻaᵃbᵇcᶜdᵈeᵉfᶠgᵍhʰiⁱjʲkᵏlˡmᵐnⁿoᵒpᵖqqrʳsˢtᵗuᵘvᵛwʷxˣyʸxᶻ0⁰1¹2²3³4⁴5⁵6⁶7⁷8⁸9⁹+⁺-⁻=⁼(⁽)⁾
-Math bold Fraktur:A𝕬B𝕭C𝕮D𝕯E𝕰F𝕱G𝕲H𝕳I𝕴J𝕵K𝕶L𝕷M𝕸N𝕹O𝕺P𝕻Q𝕼R𝕽S𝕾T𝕿U𝖀V𝖁W𝖂X𝖃Y𝖄Z𝖅a𝖆b𝖇c𝖈d𝖉e𝖊f𝖋g𝖌h𝖍i𝖎j𝖏k𝖐l𝖑m𝖒n𝖓o𝖔p𝖕q𝖖r𝖗s𝖘t𝖙u𝖚v𝖛w𝖜x𝖝y𝖞x𝖟00112233445566778899
-Math sans bold italic:A𝘼B𝘽C𝘾D𝘿E𝙀F𝙁G𝙂H𝙃I𝙄J𝙅K𝙆L𝙇M𝙈N𝙉O𝙊P𝙋Q𝙌R𝙍S𝙎T𝙏U𝙐V𝙑W𝙒X𝙓Y𝙔Z𝙕a𝙖b𝙗c𝙘d𝙙e𝙚f𝙛g𝙜h𝙝i𝙞j𝙟k𝙠l𝙡m𝙢n𝙣o𝙤p𝙥q𝙦r𝙧s𝙨t𝙩u𝙪v𝙫w𝙬x𝙭y𝙮x𝙯00112233445566778899
-Squared:A🄰B🄱C🄲D🄳E🄴F🄵G🄶H🄷I🄸J🄹K🄺L🄻M🄼N🄽O🄾P🄿Q🅀R🅁S🅂T🅃U🅄V🅅W🅆X🅇Y🅈Z🅉a🄰b🄱c🄲d🄳e🄴f🄵g🄶h🄷i🄸j🄹k🄺l🄻m🄼n🄽o🄾p🄿q🅀r🅁s🅂t🅃u🅄v🅅w🅆x🅇y🅈x🅉00112233445566778899
-Math bold italic:A𝑨B𝑩C𝑪D𝑫E𝑬F𝑭G𝑮H𝑯I𝑰J𝑱K𝑲L𝑳M𝑴N𝑵O𝑶P𝑷Q𝑸R𝑹S𝑺T𝑻U𝑼V𝑽W𝑾X𝑿Y𝒀Z𝒁a𝒂b𝒃c𝒄d𝒅e𝒆f𝒇g𝒈h𝒉i𝒊j𝒋k𝒌l𝒍m𝒎n𝒏o𝒐p𝒑q𝒒r𝒓s𝒔t𝒕u𝒖v𝒗w𝒘x𝒙y𝒚x𝒛00112233445566778899
-Math bold script:A𝓐B𝓑C𝓒D𝓓E𝓔F𝓕G𝓖H𝓗I𝓘J𝓙K𝓚L𝓛M𝓜N𝓝O𝓞P𝓟Q𝓠R𝓡S𝓢T𝓣U𝓤V𝓥W𝓦X𝓧Y𝓨Z𝓩a𝓪b𝓫c𝓬d𝓭e𝓮f𝓯g𝓰h𝓱i𝓲j𝓳k𝓴l𝓵m𝓶n𝓷o𝓸p𝓹q𝓺r𝓻s𝓼t𝓽u𝓾v𝓿w𝔀x𝔁y𝔂x𝔃00112233445566778899
-Math sans:A𝖠B𝖡C𝖢D𝖣E𝖤F𝖥G𝖦H𝖧I𝖨J𝖩K𝖪L𝖫M𝖬N𝖭O𝖮P𝖯Q𝖰R𝖱S𝖲T𝖳U𝖴V𝖵W𝖶X𝖷Y𝖸Z𝖹a𝖺b𝖻c𝖼d𝖽e𝖾f𝖿g𝗀h𝗁i𝗂j𝗃k𝗄l𝗅m𝗆n𝗇o𝗈p𝗉q𝗊r𝗋s𝗌t𝗍u𝗎v𝗏w𝗐x𝗑y𝗒x𝗓0𝟢1𝟣2𝟤3𝟥4𝟦5𝟧6𝟨7𝟩8𝟪9𝟫
-Inverted pseudoalphabet:AɐBqCɔDpEǝFɟGƃHɥIıJɾKʞLןMɯNuOoPdQbRɹSsTʇUnV𐌡WʍXxYʎZzaɐbqcɔdpeǝfɟgƃhɥiıjɾkʞlןmɯnuoopdqbrɹsstʇunvʌwʍxxyʎxz00112233445566778899
-Small Caps pseudoalphabet:AᴀBʙCᴄDᴅEᴇFꜰGɢHʜIɪJᴊKᴋLʟMᴍNɴOᴏPᴩQQRʀSꜱTᴛUᴜVᴠWᴡXxYYZᴢaᴀbʙcᴄdᴅeᴇfꜰgɢhʜiɪjᴊkᴋlʟmᴍnɴoᴏpᴩqqrʀsꜱtᴛuᴜvᴠwᴡxxyyxᴢ00112233445566778899
-Math double-struck:A𝔸B𝔹CℂD𝔻E𝔼F𝔽G𝔾HℍI𝕀J𝕁K𝕂L𝕃M𝕄NℕO𝕆PℙQℚRℝS𝕊T𝕋U𝕌V𝕍W𝕎X𝕏Y𝕐Zℤa𝕒b𝕓c𝕔d𝕕e𝕖f𝕗g𝕘h𝕙i𝕚j𝕛k𝕜l𝕝m𝕞n𝕟o𝕠p𝕡q𝕢r𝕣s𝕤t𝕥u𝕦v𝕧w𝕨x𝕩y𝕪x𝕫0𝟘1𝟙2𝟚3𝟛4𝟜5𝟝6𝟞7𝟟8𝟠9𝟡
-Parenthesized:A⒜B⒝C⒞D⒟E⒠F⒡G⒢H⒣I⒤J⒥K⒦L⒧M⒨N⒩O⒪P⒫Q⒬R⒭S⒮T⒯U⒰V⒱W⒲X⒳Y⒴Z⒵a⒜b⒝c⒞d⒟e⒠f⒡g⒢h⒣i⒤j⒥k⒦l⒧m⒨n⒩o⒪p⒫q⒬r⒭s⒮t⒯u⒰v⒱w⒲x⒳y⒴x⒵001⑴2⑵3⑶4⑷5⑸6⑹7⑺8⑻9⑼
-Circled:AⒶBⒷCⒸDⒹEⒺFⒻGⒼHⒽIⒾJⒿKⓀLⓁMⓂNⓃOⓄPⓅQⓆRⓇSⓈTⓉUⓊVⓋWⓌXⓍYⓎZⓏaⓐbⓑcⓒdⓓeⓔfⓕgⓖhⓗiⓘjⓙkⓚlⓛmⓜnⓝoⓞpⓟqⓠrⓡsⓢtⓣuⓤvⓥwⓦxⓧyⓨxⓩ001①2②3③4④5⑤6⑥7⑦8⑧9⑨
-Squared (neg):A🅰B🅱C🅲D🅳E🅴F🅵G🅶H🅷I🅸J🅹K🅺L🅻M🅼N🅽O🅾P🅿Q🆀R🆁S🆂T🆃U🆄V🆅W🆆X🆇Y🆈Z🆉a🅰b🅱c🅲d🅳e🅴f🅵g🅶h🅷i🅸j🅹k🅺l🅻m🅼n🅽o🅾p🅿q🆀r🆁s🆂t🆃u🆄v🆅w🆆x🆇y🆈x🆉00112233445566778899
-Math Fraktur pseudoalphabet:A𝔄B𝔅CℭD𝔇E𝔈F𝔉G𝔊HℌIℑJ𝔍K𝔎L𝔏M𝔐N𝔑O𝔒P𝔓Q𝔔RℜS𝔖T𝔗U𝔘V𝔙W𝔚X𝔛Y𝔜Zℨa𝔞b𝔟c𝔠d𝔡e𝔢f𝔣g𝔤h𝔥i𝔦j𝔧k𝔨l𝔩m𝔪n𝔫o𝔬p𝔭q𝔮r𝔯s𝔰t𝔱u𝔲v𝔳w𝔴x𝔵y𝔶x𝔷00112233445566778899
-Math bold:A𝐀B𝐁C𝐂D𝐃E𝐄F𝐅G𝐆H𝐇I𝐈J𝐉K𝐊L𝐋M𝐌N𝐍O𝐎P𝐏Q𝐐R𝐑S𝐒T𝐓U𝐔V𝐕W𝐖X𝐗Y𝐘Z𝐙a𝐚b𝐛c𝐜d𝐝e𝐞f𝐟g𝐠h𝐡i𝐢j𝐣k𝐤l𝐥m𝐦n𝐧o𝐨p𝐩q𝐪r𝐫s𝐬t𝐭u𝐮v𝐯w𝐰x𝐱y𝐲x𝐳0𝟎1𝟏2𝟐3𝟑4𝟒5𝟓6𝟔7𝟕8𝟖9𝟗
-Math sans bold:A𝗔B𝗕C𝗖D𝗗E𝗘F𝗙G𝗚H𝗛I𝗜J𝗝K𝗞L𝗟M𝗠N𝗡O𝗢P𝗣Q𝗤R𝗥S𝗦T𝗧U𝗨V𝗩W𝗪X𝗫Y𝗬Z𝗭a𝗮b𝗯c𝗰d𝗱e𝗲f𝗳g𝗴h𝗵i𝗶j𝗷k𝗸l𝗹m𝗺n𝗻o𝗼p𝗽q𝗾r𝗿s𝘀t𝘁u𝘂v𝘃w𝘄x𝘅y𝘆x𝘇0𝟬1𝟭2𝟮3𝟯4𝟰5𝟱6𝟲7𝟳8𝟴9𝟵
-Fullwidth:AＡBＢCＣDＤEＥFＦGＧHＨIＩJＪKＫLＬMＭNＮOＯPＰQＱRＲSＳTＴUＵVＶWＷXＸYＹZＺaａbｂcｃdｄeｅfｆgｇhｈiｉjｊkｋlｌmｍnｎoｏpｐqｑrｒsｓtｔuｕvｖwｗxｘyｙxｚ0０1１2２3３4４5５6６7７8８9９
-Uppercase:aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUvVwWxXyYzZ
+Circled (neg):A🅐B🅑C🅒D🅓E🅔F🅕G🅖H🅗I🅘J🅙K🅚L🅛M🅜N🅝O🅞P🅟Q🅠R🅡S🅢T🅣U🅤V🅥W🅦X🅧Y🅨Z🅩a🅐b🅑c🅒d🅓e🅔f🅕g🅖h🅗i🅘j🅙k🅚l🅛m🅜n🅝o🅞p🅟q🅠r🅡s🅢t🅣u🅤v🅥w🅦x🅧y🅨z🅩0⓿112233445566778899
+Circled:AⒶBⒷCⒸDⒹEⒺFⒻGⒼHⒽIⒾJⒿKⓀLⓁMⓂNⓃOⓄPⓅQⓆRⓇSⓈTⓉUⓊVⓋWⓌXⓍYⓎZⓏaⓐbⓑcⓒdⓓeⓔfⓕgⓖhⓗiⓘjⓙkⓚlⓛmⓜnⓝoⓞpⓟqⓠrⓡsⓢtⓣuⓤvⓥwⓦxⓧyⓨzⓩ001①2②3③4④5⑤6⑥7⑦8⑧9⑨
+Fullwidth:AＡBＢCＣDＤEＥFＦGＧHＨIＩJＪKＫLＬMＭNＮOＯPＰQＱRＲSＳTＴUＵVＶWＷXＸYＹZＺaａbｂcｃdｄeｅfｆgｇhｈiｉjｊkｋlｌmｍnｎoｏpｐqｑrｒsｓtｔuｕvｖwｗxｘyｙzｚ0０1１2２3３4４5５6６7７8８9９
+Inverted pseudoalphabet:AɐBqCɔDpEǝFɟGƃHɥIıJɾKʞLןMɯNuOoPdQbRɹSsTʇUnV𐌡WʍXxYʎZzaɐbqcɔdpeǝfɟgƃhɥiıjɾkʞlןmɯnuoopdqbrɹsstʇunvʌwʍxxyʎzz00112233445566778899
 Lowercase:AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz
+Math Fraktur pseudoalphabet:A𝔄B𝔅CℭD𝔇E𝔈F𝔉G𝔊HℌIℑJ𝔍K𝔎L𝔏M𝔐N𝔑O𝔒P𝔓Q𝔔RℜS𝔖T𝔗U𝔘V𝔙W𝔚X𝔛Y𝔜Zℨa𝔞b𝔟c𝔠d𝔡e𝔢f𝔣g𝔤h𝔥i𝔦j𝔧k𝔨l𝔩m𝔪n𝔫o𝔬p𝔭q𝔮r𝔯s𝔰t𝔱u𝔲v𝔳w𝔴x𝔵y𝔶z𝔷00112233445566778899
+Math bold Fraktur:A𝕬B𝕭C𝕮D𝕯E𝕰F𝕱G𝕲H𝕳I𝕴J𝕵K𝕶L𝕷M𝕸N𝕹O𝕺P𝕻Q𝕼R𝕽S𝕾T𝕿U𝖀V𝖁W𝖂X𝖃Y𝖄Z𝖅a𝖆b𝖇c𝖈d𝖉e𝖊f𝖋g𝖌h𝖍i𝖎j𝖏k𝖐l𝖑m𝖒n𝖓o𝖔p𝖕q𝖖r𝖗s𝖘t𝖙u𝖚v𝖛w𝖜x𝖝y𝖞z𝖟00112233445566778899
+Math bold italic:A𝑨B𝑩C𝑪D𝑫E𝑬F𝑭G𝑮H𝑯I𝑰J𝑱K𝑲L𝑳M𝑴N𝑵O𝑶P𝑷Q𝑸R𝑹S𝑺T𝑻U𝑼V𝑽W𝑾X𝑿Y𝒀Z𝒁a𝒂b𝒃c𝒄d𝒅e𝒆f𝒇g𝒈h𝒉i𝒊j𝒋k𝒌l𝒍m𝒎n𝒏o𝒐p𝒑q𝒒r𝒓s𝒔t𝒕u𝒖v𝒗w𝒘x𝒙y𝒚z𝒛00112233445566778899
+Math bold script:A𝓐B𝓑C𝓒D𝓓E𝓔F𝓕G𝓖H𝓗I𝓘J𝓙K𝓚L𝓛M𝓜N𝓝O𝓞P𝓟Q𝓠R𝓡S𝓢T𝓣U𝓤V𝓥W𝓦X𝓧Y𝓨Z𝓩a𝓪b𝓫c𝓬d𝓭e𝓮f𝓯g𝓰h𝓱i𝓲j𝓳k𝓴l𝓵m𝓶n𝓷o𝓸p𝓹q𝓺r𝓻s𝓼t𝓽u𝓾v𝓿w𝔀x𝔁y𝔂z𝔃00112233445566778899
+Math bold:A𝐀B𝐁C𝐂D𝐃E𝐄F𝐅G𝐆H𝐇I𝐈J𝐉K𝐊L𝐋M𝐌N𝐍O𝐎P𝐏Q𝐐R𝐑S𝐒T𝐓U𝐔V𝐕W𝐖X𝐗Y𝐘Z𝐙a𝐚b𝐛c𝐜d𝐝e𝐞f𝐟g𝐠h𝐡i𝐢j𝐣k𝐤l𝐥m𝐦n𝐧o𝐨p𝐩q𝐪r𝐫s𝐬t𝐭u𝐮v𝐯w𝐰x𝐱y𝐲z𝐳0𝟎1𝟏2𝟐3𝟑4𝟒5𝟓6𝟔7𝟕8𝟖9𝟗
+Math double-struck:A𝔸B𝔹CℂD𝔻E𝔼F𝔽G𝔾HℍI𝕀J𝕁K𝕂L𝕃M𝕄NℕO𝕆PℙQℚRℝS𝕊T𝕋U𝕌V𝕍W𝕎X𝕏Y𝕐Zℤa𝕒b𝕓c𝕔d𝕕e𝕖f𝕗g𝕘h𝕙i𝕚j𝕛k𝕜l𝕝m𝕞n𝕟o𝕠p𝕡q𝕢r𝕣s𝕤t𝕥u𝕦v𝕧w𝕨x𝕩y𝕪z𝕫0𝟘1𝟙2𝟚3𝟛4𝟜5𝟝6𝟞7𝟟8𝟠9𝟡
+Math monospace:A𝙰B𝙱C𝙲D𝙳E𝙴F𝙵G𝙶H𝙷I𝙸J𝙹K𝙺L𝙻M𝙼N𝙽O𝙾P𝙿Q𝚀R𝚁S𝚂T𝚃U𝚄V𝚅W𝚆X𝚇Y𝚈Z𝚉a𝚊b𝚋c𝚌d𝚍e𝚎f𝚏g𝚐h𝚑i𝚒j𝚓k𝚔l𝚕m𝚖n𝚗o𝚘p𝚙q𝚚r𝚛s𝚜t𝚝u𝚞v𝚟w𝚠x𝚡y𝚢z𝚣0𝟶1𝟷2𝟸3𝟹4𝟺5𝟻6𝟼7𝟽8𝟾9𝟿
+Math sans bold italic:A𝘼B𝘽C𝘾D𝘿E𝙀F𝙁G𝙂H𝙃I𝙄J𝙅K𝙆L𝙇M𝙈N𝙉O𝙊P𝙋Q𝙌R𝙍S𝙎T𝙏U𝙐V𝙑W𝙒X𝙓Y𝙔Z𝙕a𝙖b𝙗c𝙘d𝙙e𝙚f𝙛g𝙜h𝙝i𝙞j𝙟k𝙠l𝙡m𝙢n𝙣o𝙤p𝙥q𝙦r𝙧s𝙨t𝙩u𝙪v𝙫w𝙬x𝙭y𝙮z𝙯00112233445566778899
+Math sans bold:A𝗔B𝗕C𝗖D𝗗E𝗘F𝗙G𝗚H𝗛I𝗜J𝗝K𝗞L𝗟M𝗠N𝗡O𝗢P𝗣Q𝗤R𝗥S𝗦T𝗧U𝗨V𝗩W𝗪X𝗫Y𝗬Z𝗭a𝗮b𝗯c𝗰d𝗱e𝗲f𝗳g𝗴h𝗵i𝗶j𝗷k𝗸l𝗹m𝗺n𝗻o𝗼p𝗽q𝗾r𝗿s𝘀t𝘁u𝘂v𝘃w𝘄x𝘅y𝘆z𝘇0𝟬1𝟭2𝟮3𝟯4𝟰5𝟱6𝟲7𝟳8𝟴9𝟵
+Math sans italic:A𝘈B𝘉C𝘊D𝘋E𝘌F𝘍G𝘎H𝘏I𝘐J𝘑K𝘒L𝘓M𝘔N𝘕O𝘖P𝘗Q𝘘R𝘙S𝘚T𝘛U𝘜V𝘝W𝘞X𝘟Y𝘠Z𝘡a𝘢b𝘣c𝘤d𝘥e𝘦f𝘧g𝘨h𝘩i𝘪j𝘫k𝘬l𝘭m𝘮n𝘯o𝘰p𝘱q𝘲r𝘳s𝘴t𝘵u𝘶v𝘷w𝘸x𝘹y𝘺z𝘻00112233445566778899
+Math sans:A𝖠B𝖡C𝖢D𝖣E𝖤F𝖥G𝖦H𝖧I𝖨J𝖩K𝖪L𝖫M𝖬N𝖭O𝖮P𝖯Q𝖰R𝖱S𝖲T𝖳U𝖴V𝖵W𝖶X𝖷Y𝖸Z𝖹a𝖺b𝖻c𝖼d𝖽e𝖾f𝖿g𝗀h𝗁i𝗂j𝗃k𝗄l𝗅m𝗆n𝗇o𝗈p𝗉q𝗊r𝗋s𝗌t𝗍u𝗎v𝗏w𝗐x𝗑y𝗒z𝗓0𝟢1𝟣2𝟤3𝟥4𝟦5𝟧6𝟨7𝟩8𝟪9𝟫
+Parenthesized:A⒜B⒝C⒞D⒟E⒠F⒡G⒢H⒣I⒤J⒥K⒦L⒧M⒨N⒩O⒪P⒫Q⒬R⒭S⒮T⒯U⒰V⒱W⒲X⒳Y⒴Z⒵a⒜b⒝c⒞d⒟e⒠f⒡g⒢h⒣i⒤j⒥k⒦l⒧m⒨n⒩o⒪p⒫q⒬r⒭s⒮t⒯u⒰v⒱w⒲x⒳y⒴z⒵001⑴2⑵3⑶4⑷5⑸6⑹7⑺8⑻9⑼
 Rot 13:ANBOCPDQERFSGTHUIVJWKXLYMZNAOBPCQDRESFTGUHVIWJXKYLZManbocpdqerfsgthuivjwkxlymznaobpcqdresftguhviwjxkylzm
+Small Caps pseudoalphabet:AᴀBʙCᴄDᴅEᴇFꜰGɢHʜIɪJᴊKᴋLʟMᴍNɴOᴏPᴩQQRʀSꜱTᴛUᴜVᴠWᴡXxYYZᴢaᴀbʙcᴄdᴅeᴇfꜰgɢhʜiɪjᴊkᴋlʟmᴍnɴoᴏpᴩqqrʀsꜱtᴛuᴜvᴠwᴡxxyyzᴢ00112233445566778899
+Squared (neg):A🅰B🅱C🅲D🅳E🅴F🅵G🅶H🅷I🅸J🅹K🅺L🅻M🅼N🅽O🅾P🅿Q🆀R🆁S🆂T🆃U🆄V🆅W🆆X🆇Y🆈Z🆉a🅰b🅱c🅲d🅳e🅴f🅵g🅶h🅷i🅸j🅹k🅺l🅻m🅼n🅽o🅾p🅿q🆀r🆁s🆂t🆃u🆄v🆅w🆆x🆇y🆈z🆉00112233445566778899
+Squared:A🄰B🄱C🄲D🄳E🄴F🄵G🄶H🄷I🄸J🄹K🄺L🄻M🄼N🄽O🄾P🄿Q🅀R🅁S🅂T🅃U🅄V🅅W🅆X🅇Y🅈Z🅉a🄰b🄱c🄲d🄳e🄴f🄵g🄶h🄷i🄸j🄹k🄺l🄻m🄼n🄽o🄾p🄿q🅀r🅁s🅂t🅃u🅄v🅅w🅆x🅇y🅈z🅉00112233445566778899
 Subscript pseudoalphabet:aₐeₑhₕiᵢjⱼkₖlₗmₘnₙoₒpₚrᵣsₛtₜuᵤvᵥxₓ0₀1₁2₂3₃4₄5₅6₆7₇8₈9₉+₊-₋=₌(₍)₎
+Superscript pseudoalphabet:AᴬBᴮCᶜDᴰEᴱFᶠGᴳHᴴIᴵJᴶKᴷLᴸMᴹNᴺOᴼPᴾQQRᴿSˢTᵀUᵁVⱽWᵂXˣYʸZᶻaᵃbᵇcᶜdᵈeᵉfᶠgᵍhʰiⁱjʲkᵏlˡmᵐnⁿoᵒpᵖqqrʳsˢtᵗuᵘvᵛwʷxˣyʸxᶻ0⁰1¹2²3³4⁴5⁵6⁶7⁷8⁸9⁹+⁺-⁻=⁼(⁽)⁾
+Uppercase:aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUvVwWxXyYzZ
