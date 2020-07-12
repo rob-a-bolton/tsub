@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 
 XMENU_LINES=${XMENU_LINES:-15}
-if command -v bemenu; then
+if command -v rofi; then
+    XMENU="rofi -dmenu"
+elif command -v bemenu; then
     XMENU=bemenu
 elif command -v dmenu; then
     XMENU=dmenu
